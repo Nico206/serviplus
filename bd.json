@@ -1,0 +1,50 @@
+{
+  "Usuarios": [
+    {
+      "username": "Narly",
+      "email": "narly@gmail.com",
+      "phone": "3123123123",
+      "password": "12341234",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "username": "Jorge",
+      "email": "jorge@serviplus.com",
+      "phone": "312312312",
+      "password": "12341234",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "username": "Kevin",
+      "email": "kevin@gmail.com",
+      "phone": "312312312",
+      "password": "12341234",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "Tickets": [
+    {
+      "title": "Probemas tecnicos",
+      "description": "Mi televisor no enciende",
+      "username": "Narly",
+      "date": "2023-12-01",
+      "answerUser": "Ya funciono muchas gracias",
+      "userId": "1",
+      "answer": "Vale, cualquier duda mandas otro ticket",
+      "id": 1
+    },
+    {
+      "title": "Solicitud de informac+ion",
+      "description": "Me puedes pasar los terminos y condiciones",
+      "username": "Kevin",
+      "date": "2023-12-01",
+      "answerUser": "undefined",
+      "userId": "3",
+      "answer": "Si claro, ya te envie toda la informacion al correo",
+      "id": 2
+    }
+  ]
+}
